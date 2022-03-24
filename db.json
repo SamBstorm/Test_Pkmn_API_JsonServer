@@ -1,0 +1,20 @@
+{
+    "players":[
+        {
+            "id":1,
+            "username":"Samuel"
+        }
+    ],
+    "teams":[
+        {
+            "id":1,
+            "player_id" :1, 
+            "pkmn1_id":6,
+            "pkmn2_id":101,
+            "pkmn3_id":150,
+            "pkmn4_id":146,
+            "pkmn5_id":145,
+            "pkmn6_id":144
+        }
+    ]
+}
